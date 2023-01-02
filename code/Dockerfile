@@ -27,3 +27,12 @@ For inbuild images libraries
 Sudo docker images
 Sudo docker pull hello-world
 Repeat from build
+push
+
+push
+
+#For adding file to git#
+git add .
+git commit -m "message"
+git status 
+git push
